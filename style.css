@@ -10,6 +10,8 @@
 /* Use element selector */
 p {
     color: green;
+    margin-top: 20px;
+    margin-bottom:20px;
 }
 hr {
     margin: 20px 0;
