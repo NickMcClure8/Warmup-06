@@ -1,9 +1,9 @@
 /* Use class selector */
 .image {
     background-color: #f2f2f2;
-    width: 300px;
+    width: 200px;
     height: 200px;
-    position: relative;
+    position: static;
     margin-top: 20px;
 }
 
