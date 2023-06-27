@@ -4,9 +4,13 @@
     width: 300px;
     height: 200px;
     position: relative;
+    margin-top: 20px;
 }
 
 /* Use element selector */
 p {
-    color: blue;
+    color: green;
+}
+hr {
+    margin: 20px 0;
 }
