@@ -3,7 +3,7 @@
     background-color: #f2f2f2;
     width: 200px;
     height: 200px;
-    position: static;
+    position: absolute;
     margin-top: 20px;
 }
 
